@@ -1,0 +1,889 @@
+* {
+    color: black!important
+}
+
+body{
+    background-color: rgb(198,186,170)!important   
+}
+
+.qodef-svg--menu-close rect, .qodef-svg--menu-open rect {
+    fill: rgb(198,186,170);
+}
+
+@media (max-width:602px) {
+    .elementor-column.elementor-col-50.elementor-top-column.elementor-element.elementor-element-3545651 {
+        text-align: justify!important;
+    }
+    
+    #qodef-page-content > div > div > div > section.elementor-section.elementor-top-section.elementor-element.elementor-element-7b37fc4.elementor-section-full_width.elementor-section-height-default.elementor-section-height-default > div > div.elementor-column.elementor-col-50.elementor-top-column.elementor-element.elementor-element-1693a5e > div > div.elementor-element.elementor-element-d693929.elementor-widget.elementor-widget-marity_core_opportunities_list > div > div > div > div > div.qodef-m-item.qodef-e > h5{
+        width: initial!important;
+    }
+}
+
+@media (max-width:430px) {
+    #qodef-page-content > div > div > div > section.elementor-section.elementor-top-section.elementor-element.elementor-element-e0101e2.elementor-section-full_width.elementor-reverse-mobile_extra.elementor-reverse-mobile.elementor-section-height-default.elementor-section-height-default.qodef-particles-background.qodef-parallax--init > div.elementor-container.elementor-column-gap-no > div.elementor-column.elementor-col-50.elementor-top-column.elementor-element.elementor-element-c5005e9 > div > div.elementor-element.elementor-element-40e3a34.elementor-widget.elementor-widget-text-editor > div > p > span{
+    
+        display: initial!important;
+    }
+    
+    #qodef-page-content > div > div > div > section.elementor-section.elementor-top-section.elementor-element.elementor-element-7b37fc4.elementor-section-full_width.elementor-section-height-default.elementor-section-height-default > div > div.elementor-column.elementor-col-50.elementor-top-column.elementor-element.elementor-element-1693a5e > div > div.elementor-element.elementor-element-d693929.elementor-widget.elementor-widget-marity_core_opportunities_list > div > div > div > div > div.qodef-m-item.qodef-e > h5{
+        
+        text-align: justify!important;
+    }
+}
+
+#qodef-page-header-inner > nav * {
+    color: #c6baaa!important;
+    font-family: 'Oswald';
+    font-size: large;
+    font-weight: 300;
+}
+
+#qodef-page-content > div > div > div > section.elementor-section.elementor-top-section.elementor-element.elementor-element-12e0ee0.elementor-section-full_width.elementor-section-height-default.elementor-section-height-default > div > div > div > div > div > div > div.swiper-wrapper * {
+    color: white!important;
+}
+
+span.qodef-e-title-text {
+    color: #04043e;
+}
+
+
+h1.qodef-m-title {
+    color: #000;
+    font-family: 'Oswald';
+    font-weight: 700;
+}
+
+/* body {
+    background-color: #ebfbeb;
+} */
+
+.qodef-m-items {
+    /* text-align: justify; */
+}
+
+h1.qodef-m-title {
+    font-family: 'Oswald';
+    font-weight: 700;
+}
+
+h2.qodef-e-title.entry-title {
+    font-family: 'Oswald';
+    font-weight: 700;
+    font-size: 42px;
+}
+
+h2.qodef-m-title {
+    font-family: 'Oswald';
+    font-weight: 700;
+    font-size: 42px;
+}
+
+span.qodef-e-title-text {
+    font-family: 'Open sans';
+    font-weight: 300;
+    font-size: 14px;
+    color: black;
+    font-size: 15;
+}
+
+h2.qodef-m-title-text {
+    font-family: 'Oswald';
+    font-weight: 700;
+}
+
+p.qodef-newsletter-title {
+    font-family: 'Oswald'!important;
+    font-weight: 700;
+}
+
+p.qodef-footer-list-title {
+    font-family: 'Oswald'!important;
+    font-weight: 700;
+}
+
+span.qodef-btn-text {
+    font-family: 'Oswald';
+    font-weight: 300;
+    font-size: medium;
+    text-transform: initial;
+}
+
+p {
+    font-family: 'Oswald';
+    font-weight: 300;
+    font-size: medium;
+    color: black;
+}
+
+h6.qodef-e-supertitle {
+    font-family: 'Oswald';
+    font-weight: 300;
+    font-size: medium;
+}
+
+#qodef-page-content > div > div > div > section.elementor-section.elementor-top-section.elementor-element.elementor-element-3ee30da.elementor-section-full_width.elementor-section-height-default.elementor-section-height-default > div > div > div > div > div > div > div.qodef-m-items > a.qodef-m-item > span.qodef-e-title > span {
+    font-family: 'Oswald';
+    font-weight: 700;
+    font-size: inherit;
+    color: black;
+}
+
+span.qodef-e-tagline {
+    font-family: 'Oswald'!important;
+    font-weight: 300;
+    font-size: medium!important;
+    color: black;
+}
+
+#qodef-page-content > div > div > div > section.elementor-section.elementor-top-section.elementor-element.elementor-element-7b37fc4.elementor-section-full_width.elementor-section-height-default.elementor-section-height-default > div > div.elementor-column.elementor-col-50.elementor-top-column.elementor-element.elementor-element-1693a5e > div > div.elementor-element.elementor-element-d693929.elementor-widget.elementor-widget-marity_core_opportunities_list > div > div > div > div > div.qodef-m-item.qodef-e > h5 {
+    overflow-x: hidden;
+    font-family: 'Open sans';
+    font-weight: 300;
+    font-size: 17px;
+    width: max-content;
+    height: 50px;
+    color: black;
+}
+
+#block-10 > p {
+    font-family: 'Open Sans'!important;
+    /* font-size: x-large; */
+}
+
+input.wpcf7-form-control.wpcf7-text.wpcf7-email.wpcf7-validates-as-required.wpcf7-validates-as-email {
+    font-family: 'Open Sans';
+}
+
+button.wpcf7-form-control.wpcf7-submit.qodef-button.qodef-size--normal.qodef-layout--outlined.qodef-m {
+    font-family: 'Open Sans';
+}
+
+#qodef-page-content > div > div > div > section.elementor-section.elementor-top-section.elementor-element.elementor-element-896299c.elementor-section-full_width.elementor-section-height-default.elementor-section-height-default > div > div > div > div > div > div > a > span > span:nth-child(1) * {
+    font-weight: 400!important;
+}
+
+#qodef-page-content > div > div > div > section.elementor-section.elementor-top-section.elementor-element.elementor-element-896299c.elementor-section-full_width.elementor-section-height-default.elementor-section-height-default > div > div > div > div > div > div > a > span > span:nth-child(1) {
+    font-weight: 400!important;
+    /* margin-top: -10px!important; */
+}
+
+#qodef-page-content > div > div > div > section.elementor-section.elementor-top-section.elementor-element.elementor-element-896299c.elementor-section-full_width.elementor-section-height-default.elementor-section-height-default > div > div > div > div > div > div * {
+    font-family: 'Oswald'!important;
+    font-weight: 300;
+    color: white!important;
+    font-size: xx-large;
+}
+
+#qodef-page-content > div > div > div > section.elementor-section.elementor-top-section.elementor-element.elementor-element-969ec7d.elementor-section-full_width.elementor-section-height-default.elementor-section-height-default > div > div > div > div > div > div > div.swiper-wrapper > article.qodef-e.swiper-slide.post-5505.portfolio-item.type-portfolio-item.status-publish.has-post-thumbnail.hentry.portfolio-category-engineering.swiper-slide-duplicate-next > div > div.qodef-e-content > div.qodef-e-text {
+    font-family: 'Oswald';
+}
+
+#qodef-page-content > div > div > div > section.elementor-section.elementor-top-section.elementor-element.elementor-element-e0101e2.elementor-section-full_width.elementor-reverse-mobile_extra.elementor-reverse-mobile.elementor-section-height-default.elementor-section-height-default.qodef-particles-background.qodef-parallax--init > div.elementor-container.elementor-column-gap-no > div.elementor-column.elementor-col-50.elementor-top-column.elementor-element.elementor-element-c5005e9 > div > div.elementor-element.elementor-element-c19954e.elementor-widget.elementor-widget-marity_core_section_title > div > div > div > a {
+    text-transform: initial!important;
+}
+
+#qodef-page-content > div > div > div > section.elementor-section.elementor-top-section.elementor-element.elementor-element-12e0ee0.elementor-section-full_width.elementor-section-height-default.elementor-section-height-default > div > div > div > div > div > div > div.swiper-wrapper > article.qodef-e.qodef-blog-item div * {
+    font-family: 'Open sans';
+    font-weight: 300;
+    font-size: 14px;
+    color: black;
+}
+
+#qodef-page-content > div > div > div > section.elementor-section.elementor-top-section.elementor-element.elementor-element-e0101e2.elementor-section-full_width.elementor-reverse-mobile_extra.elementor-reverse-mobile.elementor-section-height-default.elementor-section-height-default.qodef-particles-background.qodef-parallax--init > div.elementor-container.elementor-column-gap-no > div.elementor-column.elementor-col-50.elementor-top-column.elementor-element.elementor-element-c5005e9 > div > div.elementor-element.elementor-element-40e3a34.elementor-widget.elementor-widget-text-editor > div > p {
+    text-align: initial;
+    margin-top: -10px;
+}
+
+#qodef-page-content > div > div > div > section.elementor-section.elementor-top-section.elementor-element.elementor-element-ed05bf5.elementor-section-full_width.elementor-section-height-default.elementor-section-height-default > div.elementor-container.elementor-column-gap-no > div.elementor-column.elementor-col-50.elementor-top-column.elementor-element.elementor-element-3545651 > div > div.elementor-element.elementor-element-eb7cd46.elementor-widget.elementor-widget-marity_core_section_title > div > div > p {
+    font-size: large;
+}
+
+footer#qodef-page-footer * {
+    background-color: #242528!important;
+    color: #e3dcdc!important;
+    font-size: small;
+}
+
+#block-9 > ul * {
+    font-family: "Oswald"!important;
+    font-size: 13px!important;
+}
+
+#block-9 > p {
+    font-size: 14px!important;
+}
+
+span.qodef-menu-item-text {
+    font-family: 'Open Sans';
+    font-size: medium;
+}
+
+a.qodef-e-title-link {
+    font-family: 'Oswald'!important;
+    font-size: larger!important;
+}
+
+div.qodef-e-content * {
+    font-family: 'Open Sans';
+    color: white!important;
+}
+
+article.qodef-e.qodef-blog-item {
+    background-color: rgb(44 44 44);
+}
+
+article.qodef-e {
+    background-color: rgb(44 44 44);
+}
+
+.qodef-e-inner {
+    background-color: rgb(44 44 44)!important;
+}
+
+#qodef-page-content > div > div > div > section.elementor-section.elementor-top-section.elementor-element.elementor-element-896299c.elementor-section-full_width.elementor-section-height-default.elementor-section-height-default > div > div > div > div > div > div > div > img {
+    visibility: hidden;
+}
+
+#qodef-page-content > div > div > div > section.elementor-section.elementor-top-section.elementor-element.elementor-element-896299c.elementor-section-full_width.elementor-section-height-default.elementor-section-height-default > div > div > div > div > div > div > div {
+    background-color: rgb(36,37,40);
+}
+
+#qodef-page-header {
+    background-color: rgb(44, 44, 40);
+}
+
+#qodef-page-header > div.qodef-header-sticky.qodef-custom-header-layout.qodef-skin--light.qodef-appearance--down > div * {
+    color: white!important;
+}
+
+
+#qodef-page-content > div > div > div > section.elementor-section.elementor-top-section.elementor-element.elementor-element-e0101e2.elementor-section-full_width.elementor-reverse-mobile_extra.elementor-reverse-mobile.elementor-section-height-default.elementor-section-height-default.qodef-particles-background.qodef-parallax--init > div.elementor-container.elementor-column-gap-no > div.elementor-column.elementor-col-50.elementor-top-column.elementor-element.elementor-element-c5005e9 > div > div.elementor-element.elementor-element-40e3a34.elementor-widget.elementor-widget-text-editor > div > p {
+    text-align: initial;
+}
+
+#qodef-page-content > div > div > div > section.elementor-section.elementor-top-section.elementor-element.elementor-element-3ee30da.elementor-section-full_width.elementor-section-height-default.elementor-section-height-default > div > div > div > div > div > div > div.qodef-m-items * {
+    text-align: initial;
+}
+
+p, h5, h6{
+    text-align:initial;
+}
+
+#qodef-page-content > div > div > div > section.elementor-section.elementor-top-section.elementor-element.elementor-element-12e0ee0.elementor-section-full_width.elementor-section-height-default.elementor-section-height-default > div > div > div > div > div > div > div.swiper-wrapper > article.qodef-e.qodef-blog-item.swiper-slide > div > div > div.qodef-e-top-holder > div{
+    display: flex;
+}
+
+#block-9 > ul li a {display: flex;text-align: left;}
+
+#qodef-page-content > div > div > div > section.elementor-section.elementor-top-section.elementor-element > div > div.qodef-e-content > div.qodef-e-text > div a {
+    text-align: left;
+    display: flex;
+}
+
+#qodef-page-content > div > div > div > section.elementor-section.elementor-top-section.elementor-element > div > div.qodef-e-content > div.qodef-e-text > div a {}
+
+#qodef-page-content > div > div > div > section.elementor-section.elementor-top-section.elementor-element.elementor-element-969ec7d.elementor-section-full_width.elementor-section-height-default.elementor-section-height-default > div > div > div > div > div > div > div.swiper-wrapper > article.qodef-e.swiper-slide > div > div.qodef-e-content > div.qodef-e-text > div a {
+    text-align: left;
+    display: flex;
+}
+
+span.qodef-e-title-inner {
+    text-align: left;
+}
+
+#qodef-page-content > div > div > div > section.elementor-section.elementor-top-section.elementor-element.elementor-element-ed05bf5.elementor-section-full_width.elementor-section-height-default.elementor-section-height-default > div.elementor-container.elementor-column-gap-no > div.elementor-column.elementor-col-50.elementor-top-column.elementor-element.elementor-element-3545651 > div > div.elementor-element.elementor-widget.elementor-widget-marity_core_icon_list_item > div > div {
+    text-align: left;
+    justify-content: start;
+    display: flex;
+}
+
+.modal--show > div > div{
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: auto;
+    text-align: initial;
+    font-family: Oswald,sans-serif;
+    font-size: 16px;
+    line-height: 1.5625em;
+    font-weight: 500;
+    padding: 25px;
+    /* height: fit-content; */
+    /* background-image: url(/wp-content/offer/FOND-MODAL.png); */
+    height: 568px;
+    /* min-height: 100%!important; */
+}
+
+.modal--show > div > div{
+    width: 65%!important;
+    margin: 0 auto;
+}
+
+.modal--show > div > div > div * {
+    margin-bottom: 0.1px!important;
+    font-weight: 400;
+}
+
+.modal--fade .modal-close:after, .semantic-content .modal-close:after, .modal--show .modal-close:after{
+    background-color: transparent;
+    margin-top: 0px;
+    color: white;
+    border-radius: 37px;
+}
+
+.elementor-column.elementor-col-50.elementor-inner-column.elementor-element.elementor-element-89d60d0 * {
+    color: white!important;
+}
+
+.modal--show > div {
+    border-top-right-radius: 25px!important;
+    border-bottom-left-radius: 25px!important;
+    height: fit-content;
+    top: 30px!important;
+    overflow-y: auto;
+    background-color: #806c61!important;
+}
+
+#qodef-page-content > div > div > div > section.elementor-section.elementor-top-section.elementor-element.elementor-element-969ec7d.elementor-section-full_width.elementor-section-height-default.elementor-section-height-default > div > div > div > div > div > div > div.swiper-wrapper > article.qodef-e.swiper-slide > div > div.qodef-e-content > div.qodef-e-bottom-holder > div > a * {
+    color: rgb(233, 118, 40)!important;
+    font-weight: bold;
+}
+
+.modal--show > div > div > div > div.elementor-element.elementor-widget.elementor-widget-marity_core_icon_list_item * {
+    font-family: 'Oswald';
+    font-weight: 300!important;
+    line-height: normal;
+}
+
+.modal--show > div > div > div > div > div > div * {
+    margin-top: 2px!important;
+    font-weight: 400!important;
+    font-family: 'Oswald'!important;
+}
+
+.modal--show > div > div > div > div.elementor-element.elementor-widget.elementor-widget-marity_core_icon_list_item {
+    height: 100px;
+}
+
+.modal--fade .modal-close:before, .semantic-content .modal-close:before, .modal--show .modal-close:before {
+    background-color: white!important;
+}
+
+
+.modal--show .modal-close:before {
+    background: none!important;
+    border: 0px solid transparent!important;
+}
+
+
+#qodef-page-content > div > div > div > section.elementor-section.elementor-top-section.elementor-element.elementor-element-ed05bf5.elementor-section-full_width.elementor-section-height-default.elementor-section-height-default > div.elementor-container.elementor-column-gap-no > div.elementor-column.elementor-col-50.elementor-top-column.elementor-element.elementor-element-66d6698 > div > div > div > div > div.qodef-m-image > img {
+    /* height: 759px; */
+}
+
+.modal--show > div > div > div > div:nth-child(3) > div > div > p:nth-child(2) {
+    font-weight: 300!important;
+    font-size: large;
+}
+
+.modal--fade, .semantic-content, .modal--show {
+    transition: transform .5s ease-in!important;
+}
+
+@media (max-width:550px){
+    #qodef-page-content > div > div > div > section.elementor-section.elementor-top-section.elementor-element.elementor-element-ed05bf5.elementor-section-full_width.elementor-section-height-default.elementor-section-height-default > div.elementor-container.elementor-column-gap-no > div.elementor-column.elementor-col-50.elementor-top-column.elementor-element.elementor-element-66d6698 > div > div > div > div > div.qodef-m-image > img {
+        /* height: auto; */
+    }
+    
+    #qodef-page-content > div > div > div > section.elementor-section.elementor-top-section.elementor-element.elementor-element-7b37fc4.elementor-section-full_width.elementor-section-height-default.elementor-section-height-default > div > div.elementor-column.elementor-col-50.elementor-top-column.elementor-element.elementor-element-515dca7 > div > div > div > div > div.qodef-m-image > img {
+        /*height: 400px;*/
+    }
+    
+    #qodef-page-content > div > div > div > section.elementor-section.elementor-top-section.elementor-element.elementor-element-e0101e2.elementor-section-full_width.elementor-reverse-mobile_extra.elementor-reverse-mobile.elementor-section-height-default.elementor-section-height-default.qodef-particles-background.qodef-parallax--init > div.elementor-container.elementor-column-gap-no > div.elementor-column.elementor-col-50.elementor-top-column.elementor-element.elementor-element-c5005e9 > div > div.elementor-element.elementor-element-c19954e.elementor-widget.elementor-widget-marity_core_section_title > div > div > h2 {
+        font-size: x-large!important;
+    }
+    
+    #qodef-page-content > div > div > div > section.elementor-section.elementor-top-section.elementor-element.elementor-element-e0101e2.elementor-section-full_width.elementor-reverse-mobile_extra.elementor-reverse-mobile.elementor-section-height-default.elementor-section-height-default.qodef-particles-background.qodef-parallax--init > div.elementor-container.elementor-column-gap-no > div.elementor-column.elementor-col-50.elementor-top-column.elementor-element.elementor-element-c5005e9 > div > div.elementor-element.elementor-element-40e3a34.elementor-widget.elementor-widget-text-editor > div > p:nth-child(3) > span{
+        display: none!important;
+    }
+    
+    #qodef-page-content > div > div > div > section.elementor-section.elementor-top-section.elementor-element.elementor-element-7b37fc4.elementor-section-full_width.elementor-section-height-default.elementor-section-height-default{
+        padding: 100px 0px 100px 0px;
+    }
+}
+
+@media (min-width:890px) and (max-width:1020px){
+    #qodef-page-content > div > div > div > section.elementor-section.elementor-top-section.elementor-element.elementor-element-e0101e2.elementor-section-full_width.elementor-reverse-mobile_extra.elementor-reverse-mobile.elementor-section-height-default.elementor-section-height-default.qodef-particles-background.qodef-parallax--init > div.elementor-container.elementor-column-gap-no > div.elementor-column.elementor-col-50.elementor-top-column.elementor-element.elementor-element-c5005e9 > div > div.elementor-element.elementor-element-40e3a34.elementor-widget.elementor-widget-text-editor > div > p:nth-child(3) > span{
+        display: none!important;
+    }
+}
+
+#qodef-page-content > div > div > div > section.elementor-section.elementor-top-section.elementor-element.elementor-element-12e0ee0.elementor-section-full_width.elementor-section-height-default.elementor-section-height-default > div > div > div > div > div > div > div.swiper-wrapper > article.qodef-e.qodef-blog-item.swiper-slide.qodef-item--full > div > div > div.qodef-e-text > div > div.qodef-e-right.qodef-e-info > div > a * {
+    color: #ef7828!important;
+    font-weight: 800;
+}
+
+#qodef-page-content > div > div > div > section.elementor-section.elementor-top-section.elementor-element.elementor-element-e0101e2.elementor-section-full_width.elementor-reverse-mobile_extra.elementor-reverse-mobile.elementor-section-height-default.elementor-section-height-default.qodef-particles-background.qodef-parallax--init > div.elementor-container.elementor-column-gap-no > div.elementor-column.elementor-col-50.elementor-top-column.elementor-element.elementor-element-c5005e9 > div > div.elementor-element.elementor-element-c19954e.elementor-widget.elementor-widget-marity_core_section_title > div > div > h2 {
+    font-family: "Oswald";
+    margin-top: -5px;
+    font-size: xx-large;
+    font-weight: 300;
+}
+
+#qodef-page-content > div > div > div > section.elementor-section.elementor-top-section.elementor-element.elementor-element-969ec7d.elementor-section-full_width.elementor-section-height-default.elementor-section-height-default > div > div > div > div > div > div > div.qodef-top-info-holder > div.qodef-e-title-holder > div:nth-child(1) {
+    text-align: left;
+    display: flex;
+    align-items: center;
+    margin-top: -15px;
+}
+
+#qodef-page-content > div > div > div > section.elementor-section.elementor-top-section.elementor-element.elementor-element-969ec7d.elementor-section-full_width.elementor-section-height-default.elementor-section-height-default > div > div > div > div > div > div > div.qodef-top-info-holder > div.qodef-e-title-holder > div:nth-child(1) * {
+    margin-right: 8px;
+    margin: 0;
+}
+
+#qodef-page-content > div > div > div > section.elementor-section.elementor-top-section.elementor-element.elementor-element-969ec7d.elementor-section-full_width.elementor-section-height-default.elementor-section-height-default > div > div > div > div > div > div > div.qodef-top-info-holder > div.qodef-e-title-holder > div:nth-child(1) > h3 {
+    /* margin-bottom: 12px; */
+    margin-top: 6px;
+    margin-left: 10px;
+    font-family: "Oswald";
+    font-size: xx-large;
+    font-weight: 300;
+}
+
+
+#menu-main-menu-2 > li.menu-item.menu-item-type-custom * {
+    font-family: 'Oswald';
+    font-weight: 300;
+    font-size: 18px;
+}
+
+#qodef-page-content > div > div > div > section.elementor-section.elementor-top-section.elementor-element.elementor-element-ed05bf5.elementor-section-full_width.elementor-section-height-default.elementor-section-height-default > div.elementor-container.elementor-column-gap-no > div.elementor-column.elementor-col-50.elementor-top-column.elementor-element.elementor-element-3545651 > div > div.elementor-element.elementor-element-eb7cd46.elementor-widget.elementor-widget-marity_core_section_title > div > div > h3 {
+    margin-top: 2px;
+    font-weight: 300;
+    font-size: xx-large;
+    font-family: 'Oswald';
+}
+
+#qodef-page-content > div > div > div > section.elementor-section.elementor-top-section.elementor-element.elementor-element-896299c.elementor-section-full_width.elementor-section-height-default.elementor-section-height-default > div > div > div > div > div > div > a > span > span:nth-child(2) {
+    font-size: xx-large;
+    font-weight: 300;
+    margin-bottom: 0px;
+    margin-top: -24px!important;
+}
+
+.qodef-video-button .qodef-m-play .qodef-m-play-inner {
+    background-image: linear-gradient(0deg,#e7d2d2 0,#e7d2d2 0,#e97628 48%,#e97628 100%);
+}
+
+#qodef-page-content > div > div > div > section.elementor-section.elementor-top-section.elementor-element.elementor-element-896299c.elementor-section-full_width.elementor-section-height-default.elementor-section-height-default > div > div > div > div > div > div > a > span > span.qodef-play-btn-holder > span.qodef-m-play-text {
+    font-size: 20px;
+}
+
+#qodef-page-content > div > div > div > section.elementor-section.elementor-top-section.elementor-element.elementor-element-7b37fc4.elementor-section-full_width.elementor-section-height-default.elementor-section-height-default > div > div.elementor-column.elementor-col-50.elementor-top-column.elementor-element.elementor-element-1693a5e > div > div.elementor-element.elementor-element-9841200.elementor-widget.elementor-widget-marity_core_section_title > div > div > h3 {
+    margin-top: 2px;
+    font-weight: 300;
+    font-size: xx-large;
+    font-family: 'Oswald';
+}
+
+.swiper-button-next:hover, .swiper-button-prev:hover{
+    background-color: rgb(128 108 97)!important;
+    border-color: rgb(128 108 97)!important;
+}
+
+@media (max-width:1024px){
+    #qodef-page-mobile-header{
+        background-color: rgb(36,37,40)
+    }
+
+    #qodef-page-mobile-header > nav{
+        background-color: #c6baaa;
+    }    
+    
+    .modal--fade .modal-inner, .semantic-content .modal-inner, .modal--show .modal-inner {
+        margin-left: -31.5%!important;
+        width: 65%!important;
+    }
+    .modal--fade .modal-close:after, .semantic-content .modal-close:after, .modal--show .modal-close:after {
+        right: 50%;
+        margin-right: -33%;
+    }
+}
+
+@media (max-width:692px){
+    .modal--fade .modal-inner, .semantic-content .modal-inner, .modal--show .modal-inner {
+        margin-left: 11%!important;
+        width: 80%!important;
+        height: 90vh;
+        right: 0px;
+        left: 0px;
+    }
+    
+    #qodef-page-content > div > div > div > section.elementor-section.elementor-top-section.elementor-element.elementor-element-7b37fc4.elementor-section-full_width.elementor-section-height-default.elementor-section-height-default > div > div.elementor-column.elementor-col-50.elementor-top-column.elementor-element.elementor-element-1693a5e > div > div.elementor-element.elementor-element-d693929.elementor-widget.elementor-widget-marity_core_opportunities_list > div > div > div > div > div.qodef-m-item.qodef-e > h5{
+       height: auto; 
+    }
+
+    .modal--fade .modal-close:after, .semantic-content .modal-close:after, .modal--show .modal-close:after {
+        right: 0%;
+        margin-right: 10%!important
+    }
+}
+
+@media (max-width:500px){
+    .modal--fade .modal-inner, .semantic-content .modal-inner, .modal--show .modal-inner {
+        margin-left: 0%!important;
+        width: 100%!important;
+        height: 90vh;
+        right: 0px;
+        left: 0px;
+    }
+    
+    .modal--fade .modal-close:after, .semantic-content .modal-close:after, .modal--show .modal-close:after {
+        margin-right: 2%!important;
+        right: 0%;
+    }
+
+}
+
+@media (max-width:472px){
+    .modal--fade .modal-inner, .semantic-content .modal-inner, .modal--show .modal-inner {
+        margin-left: 0%;
+        width: 100%;
+        height: 95vh!important;
+        right: 0px;
+        left: 0px;
+    }
+
+}
+
+@media (max-width: 368px){
+    #qodef-page-content > div > div > div > section.elementor-section.elementor-top-section.elementor-element.elementor-element-969ec7d.elementor-section-full_width.elementor-section-height-default.elementor-section-height-default > div > div > div > div > div > div > div.qodef-top-info-holder > div.qodef-e-title-holder > div:nth-child(1) > h3{
+        /* margin-top: 0px; */
+        margin-left: 0px;
+    }
+    
+    #qodef-page-content > div > div > div > section.elementor-section.elementor-top-section.elementor-element.elementor-element-969ec7d.elementor-section-full_width.elementor-section-height-default.elementor-section-height-default > div > div > div > div > div > div > div.qodef-top-info-holder > div.qodef-e-title-holder > div:nth-child(1){
+        display:initial;
+    }
+}
+
+@media (max-width: 370px){
+
+    #qodef-page-content > div > div > div > section.elementor-section.elementor-top-section.elementor-element.elementor-element-e0101e2.elementor-section-full_width.elementor-reverse-mobile_extra.elementor-reverse-mobile.elementor-section-height-default.elementor-section-height-default.qodef-particles-background.qodef-parallax--init > div.elementor-container.elementor-column-gap-no > div.elementor-column.elementor-col-50.elementor-top-column.elementor-element.elementor-element-c5005e9 > div > div.elementor-element.elementor-element-40e3a34.elementor-widget.elementor-widget-text-editor > div > p:nth-child(3) > span:nth-child(1){
+        display: initial!important;
+    }
+
+}
+
+@media (max-width: 410px){
+    #qodef-page-content > div > div > div > section.elementor-section.elementor-top-section.elementor-element.elementor-element-e0101e2.elementor-section-full_width.elementor-reverse-mobile_extra.elementor-reverse-mobile.elementor-section-height-default.elementor-section-height-default.qodef-particles-background.qodef-parallax--init > div.elementor-container.elementor-column-gap-no > div.elementor-column.elementor-col-50.elementor-top-column.elementor-element.elementor-element-c5005e9 > div > div.elementor-element.elementor-element-c19954e.elementor-widget.elementor-widget-marity_core_section_title > div > div > h2{
+        font-size: 22px!important;
+        font-weight: 400;
+    }
+    
+    #qodef-page-content > div > div > div > section.elementor-section.elementor-top-section.elementor-element.elementor-element-ed05bf5.elementor-section-full_width.elementor-section-height-default.elementor-section-height-default > div.elementor-container.elementor-column-gap-no > div.elementor-column.elementor-col-50.elementor-top-column.elementor-element.elementor-element-3545651 > div > div.elementor-element.elementor-element-eb7cd46.elementor-widget.elementor-widget-marity_core_section_title > div > div > h3{
+        font-size: 22px!important;
+        line-height: unset;
+        font-weight: 400;
+    }
+
+    #qodef-page-content > div > div > div > section.elementor-section.elementor-top-section.elementor-element.elementor-element-7b37fc4.elementor-section-full_width.elementor-section-height-default.elementor-section-height-default > div > div.elementor-column.elementor-col-50.elementor-top-column.elementor-element.elementor-element-1693a5e > div > div.elementor-element.elementor-element-9841200.elementor-widget.elementor-widget-marity_core_section_title > div > div > h3{
+        font-size: 22px;
+        font-weight: 400;
+    }
+    
+    #qodef-page-content > div > div > div > section.elementor-section.elementor-top-section.elementor-element.elementor-element-969ec7d.elementor-section-full_width.elementor-section-height-default.elementor-section-height-default > div > div > div > div > div > div > div.qodef-top-info-holder > div.qodef-e-title-holder > div:nth-child(1){
+        display: initial!important;
+    }
+
+    #qodef-page-content > div > div > div > section.elementor-section.elementor-top-section.elementor-element.elementor-element-969ec7d.elementor-section-full_width.elementor-section-height-default.elementor-section-height-default > div > div > div > div > div > div > div.qodef-top-info-holder > div.qodef-e-title-holder > div:nth-child(1) > h3 {
+        margin-top: -6px!important;
+        margin-left: 1px!important;
+        font-size: 22px!important;
+        font-weight: 400;
+    }
+
+}
+
+@media (min-width:340px) and (max-width: 410px){
+    #qodef-page-content > div > div > div > section.elementor-section.elementor-top-section.elementor-element.elementor-element-e0101e2.elementor-section-full_width.elementor-reverse-mobile_extra.elementor-reverse-mobile.elementor-section-height-default.elementor-section-height-default.qodef-particles-background.qodef-parallax--init > div.elementor-container.elementor-column-gap-no > div.elementor-column.elementor-col-50.elementor-top-column.elementor-element.elementor-element-c5005e9 > div > div.elementor-element.elementor-element-40e3a34.elementor-widget.elementor-widget-text-editor > div > p:nth-child(3) > span:nth-child(3){
+        display:initial!important;
+    }    
+}
+
+@media (max-width: 550px){
+
+    #qodef-page-content > div > div > div > section.elementor-section.elementor-top-section.elementor-element.elementor-element-ed05bf5.elementor-section-full_width.elementor-section-height-default.elementor-section-height-default > div.elementor-container.elementor-column-gap-no > div.elementor-column.elementor-col-50.elementor-top-column.elementor-element.elementor-element-3545651 > div > div.elementor-element.elementor-element-eb7cd46.elementor-widget.elementor-widget-marity_core_section_title > div > div > h3 > span{
+        display: none!important;
+    }
+
+    #qodef-page-content > div > div > div > section.elementor-section.elementor-top-section.elementor-element.elementor-section-full_width.elementor-section-height-default.elementor-section-height-default > div.elementor-container.elementor-column-gap-no > div.elementor-column.elementor-col-50.elementor-top-column.elementor-element > div > div.elementor-element.elementor-widget.elementor-widget-marity_core_icon_list_item > div > div > p > span *{
+        text-align:justify
+    }
+    
+    #qodef-page-content > div > div > div > section.elementor-section.elementor-top-section.elementor-element.elementor-element-896299c.elementor-section-full_width.elementor-section-height-default.elementor-section-height-default > div > div > div > div > div > div > a > span > span:nth-child(1){
+        align-self: start;
+    }
+
+    #qodef-page-content > div > div > div > section.elementor-section.elementor-top-section.elementor-element.elementor-element-896299c.elementor-section-full_width.elementor-section-height-default.elementor-section-height-default > div > div > div > div > div > div > a > span > span:nth-child(2),
+    #qodef-page-content > div > div > div > section.elementor-section.elementor-top-section.elementor-element.elementor-element-896299c.elementor-section-full_width.elementor-section-height-default.elementor-section-height-default > div > div > div > div > div > div > a > span > span:nth-child(3){
+        margin-top: -10px!important;
+        text-align: left;
+        font-size: 26px;
+    }
+
+    #qodef-page-content > div > div > div > section.elementor-section.elementor-top-section.elementor-element.elementor-element-896299c.elementor-section-full_width.elementor-section-height-default.elementor-section-height-default > div > div > div > div > div > div > a > span > span:nth-child(1) {
+        font-weight: 400!important;
+        line-height: 35px;
+        text-align: left!important;
+        letter-spacing: 1px;
+        line-height: 38px;
+    }
+
+    #qodef-page-content > div > div > div > section.elementor-section.elementor-top-section.elementor-element.elementor-element-896299c.elementor-section-full_width.elementor-section-height-default.elementor-section-height-default > div > div > div > div > div > div > a > span > span:nth-child(1) > span{
+        display: initial!important;
+    }
+
+}
+
+@media (max-width: 600px){
+    .modal--show > div > div {
+        width: 80%!important;
+        margin: 0 auto;
+    }
+}
+
+@media (max-width: 430px){
+    .modal--show > div > div {
+        width: 95%!important;
+        margin: 0 auto;
+    }
+}
+
+@media (max-width: 440px){
+    #qodef-page-content > div > div > div > section.elementor-section.elementor-top-section.elementor-element.elementor-element-ed05bf5.elementor-section-full_width.elementor-section-height-default.elementor-section-height-default > div.elementor-container.elementor-column-gap-no > div.elementor-column.elementor-col-50.elementor-top-column.elementor-element.elementor-element-66d6698 > div > div {
+        margin-top: 50px;
+    }    
+}
+
+#qodef-page-content > div > div > div > section.elementor-section.elementor-top-section.elementor-element.elementor-element-ed05bf5.elementor-section-full_width.elementor-section-height-default.elementor-section-height-default > div.elementor-background-overlay,
+canvas{
+    display: none!important;
+}
+
+#modal-of1 > div {
+    background-image: url(/wp-content/tsmf/PC/XPRESS.jpg);
+}
+#modal-of2 > div {
+    background-image: url("/wp-content/tsmf/PC/FIABILITE.jpg");
+}
+#modal-of3 > div {
+    background-image: url(/wp-content/tsmf/PC/PAS-A-PAS.jpg);
+}
+#modal-of4 > div {
+    background-image: url(/wp-content/tsmf/PC/ZEN.jpg);
+}
+#modal-of5 > div {
+    background-image: url(/wp-content/tsmf/PC/DIASPORA.jpg);
+}
+
+@media (max-width:1024px){
+    #modal-of1 > div {
+        background-image: url(/wp-content/tsmf/TAB/XPRESS.jpg);
+    }
+    #modal-of2 > div {
+        background-image: url(/wp-content/tsmf/TAB/FIABILITE.png);
+    }
+    #modal-of3 > div {
+        background-image: url(/wp-content/tsmf/TAB/PAS-A-PAS.jpg);
+    }
+    #modal-of4 > div {
+        background-image: url(/wp-content/tsmf/TAB/ZEN.jpg);
+    }
+    #modal-of5 > div {
+        background-image: url(/wp-content/tsmf/TAB/DIASPORA.jpg);
+    }
+}
+
+@media (max-width:482px){
+    #modal-of1 > div {
+        background-image: url(/wp-content/tsmf/MOB/XPRESS.jpg);
+        background-position-y: -8px;
+    }
+    #modal-of2 > div {
+        background-image: url(/wp-content/tsmf/MOB/FIABILITE.jpg);
+        background-position-y: -8px;
+    }
+    #modal-of3 > div {
+        background-image: url(/wp-content/tsmf/MOB/PAS-A-PAS.jpg);
+        background-position-y: -8px;
+    }
+    #modal-of4 > div {
+        background-image: url(/wp-content/tsmf/MOB/ZEN.jpg);
+        background-position-y: -8px;
+    }
+    #modal-of5 > div {
+        background-image: url(/wp-content/tsmf/MOB/DIASPORA.jpg);
+        background-position-y: -8px;
+    }
+}
+
+.modal--show > div{
+    background-size: 100% 100%!important;
+    overflow-y: hidden;
+}
+
+.modal--show > div > div{
+    background-size: 100% 100%;
+    width: 100%!important;
+}
+
+.modal--show > div > div > div{
+    visibility: hidden;
+}
+
+#qodef-page-content > div > div > div > section.elementor-section.elementor-top-section.elementor-element.elementor-element-314f903.elementor-section-full_width.elementor-section-height-default.elementor-section-height-default > div > div > div > div > div > div > div.elementor-container.elementor-column-gap-default > div > div > div > div > div > div > span > span {
+    background-color: transparent!important;
+}
+
+#qodef-page-content > div > div > div > section.elementor-section.elementor-top-section.elementor-element.elementor-element-12e0ee0.elementor-section-full_width.elementor-section-height-default.elementor-section-height-default > div > div > div > div > div > div > div.qodef-m-top-info-subtitle > div > div > h6{
+    margin-bottom:0;
+}
+
+#wpcf7-f2140-p5898-o1 > form > div.qodef-classic-contact-form.qodef-form-50-50 > button {
+    margin-top: 21px!important;
+    left: 35%;
+    background-color: rgba(255, 255, 255, 0);
+    border-color: rgb(198, 186, 170);
+}
+
+#wpcf7-f2140-p5898-o1 > form > div.qodef-classic-contact-form.qodef-form-50-50 > button > * {
+    color: rgb(253 250 246)!important;
+}
+
+
+#wpcf7-f2140-p5898-o1 > form > div.qodef-classic-contact-form.qodef-form-50-50 > button:hover{
+    border: none;
+    background-color: white;
+    color: black!important;
+}
+
+#spec-offer > div.qodef-classic-contact-form.qodef-form-50-50 *{
+    color: white!important;
+}
+
+#spec-offer > div.qodef-classic-contact-form.qodef-form-50-50 > span:nth-child(1) > select > option {
+    background-color: black;
+    overflow-x: hidden;
+}
+
+@media (max-width:702px){
+    #wpcf7-f2140-p5898-o1 > form > div.qodef-classic-contact-form.qodef-form-50-50 > button {
+        margin-top: 21px!important;
+        background-color: rgba(255, 255, 255, 0);
+        border-color: rgb(198, 186, 170);
+    }
+}
+
+@media (max-width:682px){
+    #grouped-of{
+        height: auto;
+    }
+    #grouped-of > div.qodef-e-inner,
+    #grouped-of > div.qodef-e-inner > div.qodef-e-content
+    {
+        height: 100%;
+    }
+}
+
+@media (max-width:662px){
+    #wpcf7-f2140-p5898-o1 > form > div.qodef-classic-contact-form.qodef-form-50-50 > button{
+        left: 2%;
+    }
+    
+    #grouped-of > div > div > div.qodef-e-text{
+        margin-top: 80%!important;
+    }
+    #grouped-of > div > div > div.qodef-e-text{
+        margin-top: 80%!important;
+    }
+    
+    #grouped-of > div > div > div.qodef-e-bottom-holder{
+        margin-top: 10px!important;
+    }
+    
+}
+
+#grouped-of > div {
+    background-color: #d97028!important;
+}
+
+#grouped-of > div > div > div.qodef-e-text * {
+    color: black!important;
+}
+
+.modal--fade .modal-inner, .semantic-content .modal-inner, .modal--show .modal-inner {
+    margin-left: -31%;
+    width: 60%;
+    height: 90vh;
+}
+
+@media (min-width: 1024px){
+    .modal-close:after {
+            top: 40px!important;
+            right: 0!important;
+            margin-right: 21.5%!important;
+    }    
+}
+
+:is(#spec-offer > div input,#spec-offer > div select)::-webkit-input-placeholder {
+    color: #bfbbbb;
+    font-size: 12px;
+}
+:is(#spec-offer > div input,#spec-offer > div select):focus::-webkit-input-placeholder {
+    color: #bfbbbb;
+}
+
+/* Firefox < 19 */
+:is(#spec-offer > div input,#spec-offer > div select):-moz-placeholder {
+    color: #bfbbbb;
+}
+:is(#spec-offer > div input,#spec-offer > div select):focus:-moz-placeholder {
+    color: #bfbbbb;
+}
+
+/* Firefox > 19 */
+:is(#spec-offer > div input,#spec-offer > div select)::-moz-placeholder {
+    color: #bfbbbb;
+}
+:is(#spec-offer > div input,#spec-offer > div select):focus::-moz-placeholder {
+    color: #bfbbbb;
+}
+
+/* Internet Explorer 10 */
+:is(#spec-offer > div input,#spec-offer > div select)input:-ms-input-placeholder {
+    color: #bfbbbb;
+}
+:is(#spec-offer > div input,#spec-offer > div select):focus:-ms-input-placeholder {
+    color: #bfbbbb;
+}
+
+#spec-offer > div input{
+    padding: 15px 28px!important;
+}
+
+#spec-offer > div.qodef-classic-contact-form.qodef-form-50-50 select {
+    color: #e8e8e8!important;
+}
+
+div#social-network {
+    text-align: left!important;
+    padding-left:2px;
+    margin-top:-25px;
+}
+
+iframe#launcher, body > iframe[role=presentation]{
+    display:none!important;
+    visibility:hidden!important;
+}

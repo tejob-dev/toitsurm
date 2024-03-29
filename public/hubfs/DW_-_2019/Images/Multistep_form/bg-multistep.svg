@@ -1,0 +1,51 @@
+<svg id="Groupe_5" data-name="Groupe 5" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1280" height="684" viewBox="0 0 1280 684">
+  <defs>
+    <linearGradient id="linear-gradient" x2="1.02" y2="1.01" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#3023ae"/>
+      <stop offset="1" stop-color="#c86dd7"/>
+    </linearGradient>
+    <clipPath id="clip-path">
+      <path id="Combined_Shape" data-name="Combined Shape" d="M640.013,677.709s-80-6.291-160-6.291-160,6.291-160,6.291-80,6.291-160,6.291-160-6.291-160-6.291L0,670H0V0H1280V677.709s-80-6.291-160-6.291q-38.453,0-76.908,1.453c-27.7,1.048-83.09,4.838-83.09,4.838s-80,6.291-160,6.291S640.013,677.709,640.013,677.709Z" fill="url(#linear-gradient)"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-3" x1="1" x2="0" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#f5cdd3"/>
+      <stop offset="1" stop-color="#f57ddc"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-6" x1="0.386" x2="0.386" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#0e95ff"/>
+      <stop offset="1" stop-color="#98ebff"/>
+    </linearGradient>
+    <clipPath id="clip-path-2">
+      <rect id="Rectangle_1" data-name="Rectangle 1" width="16" height="34" transform="translate(1264 307.5)" fill="none"/>
+    </clipPath>
+  </defs>
+  <rect id="Mask" width="1280" height="684" fill="url(#linear-gradient)"/>
+  <g id="image-header" clip-path="url(#clip-path)">
+    <g id="Group" transform="translate(-50)">
+      <path id="Path_4" data-name="Path 4" d="M0,0V291s41.086-3,50.414-64,40.621-95,77.256-121S296.817,86.309,346.5,68,415.34,0,415.34,0" transform="translate(50)" fill="url(#linear-gradient-3)"/>
+      <circle id="Oval_Copy" data-name="Oval Copy" cx="70" cy="70" r="70" transform="translate(0 604)" fill="url(#linear-gradient-3)"/>
+      <circle id="Oval_Copy_3" data-name="Oval Copy 3" cx="14.5" cy="14.5" r="14.5" transform="translate(89 205)" fill="url(#linear-gradient-3)"/>
+      <circle id="Oval_Copy_4" data-name="Oval Copy 4" cx="9" cy="9" r="9" transform="translate(334.5 65)" fill="url(#linear-gradient-6)"/>
+    </g>
+  </g>
+  <circle id="Oval_Copy_2" data-name="Oval Copy 2" cx="7.5" cy="7.5" r="7.5" transform="translate(1184 237)" fill="#72ebca"/>
+  <g id="Triangle" transform="translate(1189 511) rotate(90)" fill="none" stroke-miterlimit="10">
+    <path d="M10,0,20,20H0Z" stroke="none"/>
+    <path d="M 10 4.472129821777344 L 3.236064910888672 18 L 16.76393508911133 18 L 10 4.472129821777344 M 10 0 L 20 20 L 0 20 L 10 0 Z" stroke="none" fill="#8bd9f8"/>
+  </g>
+  <g id="Groupe_de_masques_7" data-name="Groupe de masques 7" clip-path="url(#clip-path-2)">
+    <g id="Oval" transform="translate(1272 311)" fill="none">
+      <path d="M10,0V20A10,10,0,0,1,10,0Z" stroke="none"/>
+      <path d="M 8 2.253082275390625 C 4.553390502929688 3.143402099609375 2 6.279118537902832 2 10 C 2 13.72088146209717 4.553390502929688 16.85659790039062 8 17.74691772460938 L 8 2.253082275390625 M 10 0 C 10 10.41516971588135 10 9.936770439147949 10 20 C 4.477149963378906 20 0 15.52285003662109 0 10 C 0 4.477149963378906 4.477149963378906 0 10 0 Z" stroke="none" fill="#f5afd7"/>
+    </g>
+  </g>
+  <g id="Oval_Copy_7" data-name="Oval Copy 7" transform="translate(110 268)" fill="none" stroke="#8bd9f8" stroke-miterlimit="10" stroke-width="2">
+    <circle cx="5" cy="5" r="5" stroke="none"/>
+    <circle cx="5" cy="5" r="4" fill="none"/>
+  </g>
+  <path id="Oval-2" data-name="Oval" d="M20,0a20,20,0,0,1,0,40Z" transform="translate(-20 386)" fill="#bc87fb"/>
+  <g id="Oval_Copy_6" data-name="Oval Copy 6" transform="translate(100 590)" fill="none" stroke="#ff9655" stroke-miterlimit="10" stroke-width="2">
+    <circle cx="10" cy="10" r="10" stroke="none"/>
+    <circle cx="10" cy="10" r="9" fill="none"/>
+  </g>
+</svg>

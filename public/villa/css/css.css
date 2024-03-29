@@ -1,0 +1,31 @@
+@font-face {
+  font-family: 'Barlow';
+  font-style: normal;
+  font-weight: 600;
+  src: url(../font/7cHqv4kjgoGqM7E30-8s51op.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Barlow';
+  font-style: normal;
+  font-weight: 700;
+  src: url(../font/7cHqv4kjgoGqM7E3t-4s51op.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-stretch: normal;
+  src: url(../font/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4gaVc.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Raleway';
+  font-style: normal;
+  font-weight: 400;
+  src: url(../font/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVvaorCIPrQ.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Zilla Slab';
+  font-style: normal;
+  font-weight: 400;
+  src: url(../font/dFa6ZfeM_74wlPZtksIFajo6-A.ttf) format('truetype');
+}

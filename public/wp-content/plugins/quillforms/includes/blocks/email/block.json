@@ -1,0 +1,13 @@
+{
+	"name": "email",
+	"supports": {
+		"editable": true,
+		"required": true,
+		"attachment": true,
+		"description": true,
+		"logic": true,
+		"theme": true
+	},
+	"attributes": {},
+	"logicalOperators": ["is", "is_not", "starts_with", "contains", "ends_with", "not_contains"]
+}
